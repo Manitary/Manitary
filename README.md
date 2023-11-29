@@ -1,11 +1,6 @@
-<details>
-  <summary>Language stats</summary>
-  <img style="display:block;" align="left" alt="Manitary's GitHub language stats" src="https://github-readme-stats-flax-alpha-10.vercel.app/api/top-langs/?username=Manitary&langs_count=10&layout=compact&theme=dark">
+<img style="display:block;" align="left" alt="Manitary's GitHub language stats" src="https://github-readme-stats-flax-alpha-10.vercel.app/api/top-langs/?username=Manitary&langs_count=10&layout=compact&theme=dark">
   <h6><br clear="left"/>Stats only for non-forked repositories (see <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">here</a>)</h6>
-</details>
-
-
-
+<details>
 
 <!--
 
